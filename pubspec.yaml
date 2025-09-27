@@ -1,0 +1,49 @@
+name: gym
+description: "A new Flutter project."
+publish_to: 'none' # يمنع النشر على pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  lottie: ^3.0.0
+  pedometer: ^4.1.1
+  shared_preferences: ^2.3.2
+  workmanager:
+  flutter_foreground_task:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  permission_handler:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path:  "assets/ChatGPT Image Sep 26, 2025, 06_48_42 PM.png"  # Path to your icon image
+  adaptive_icon_foreground: "assets/ChatGPT Image Sep 26, 2025, 06_48_42 PM.png"
+  adaptive_icon_background: "#3A3AFF"
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/lottie/
+
+  # مثال لإضافة خطوط مخصصة (اختياري)
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
