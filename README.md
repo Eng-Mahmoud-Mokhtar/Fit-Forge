@@ -42,6 +42,3 @@ The app provides a complete body assessment, calculates daily nutritional needs,
 
 ✨ **FitForge** is designed to be a complete reference for athletes and fitness enthusiasts, with a modern and calculated approach, a smooth user experience, and no internet required.
 ![WhatsApp Image 2025-09-28 at 12 47 08 AM](https://github.com/user-attachments/assets/d3f92951-01c6-48c8-9b64-73d2eaf52113)
-![WhatsApp Image 2025-09-28 at 12 47 08 AM (3)](https://github.com/user-attachments/assets/29182001-d3e8-4978-9bab-20ef5b1cb234)
-![WhatsApp Image 2025-09-28 at 12 47 08 AM (2)](https://github.com/user-attachments/assets/48b0be6b-bc57-46a4-a812-792f88422c12)
-![WhatsApp Image 2025-09-28 at 12 47 08 AM (1)](https://github.com/user-attachments/assets/056f0293-0424-459a-813e-e8e956b6e572)
